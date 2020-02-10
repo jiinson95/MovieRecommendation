@@ -1,11 +1,10 @@
 # MovieRecommendation
 Built collaborative filtering recommendation engines and posted the result on the Data Column. https://datacolumn.wordpress.ncsu.edu/blog/2020/02/10/building-a-collaborative-filtering-recommendation-engine/ 
 
-# Choose algorithm
+# Algorithm Used
 1. User-based Collaborative Filtering
 2. Item-based Collaborative Filtering
 
-Followings are the steps to build the engines:
 # User-based Collaborative Filtering
 1) Make a dictionary of users and all of the movies they rated
 2) Create a Euclidean Similarity function
